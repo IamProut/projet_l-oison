@@ -1,0 +1,16 @@
+site web responsive reprenant contenu+charte graphique en fonction du logo de l'association l'oison 
+date butoire: 30/05/18
+
+(couleur : violet=#701e80;orange=#f05c1f;vert1=##66AE28;vert2=#abc502;bleu=#013b84,rose=#e3014d)
+(https://sites.google.com/site/assoloison/home)
+<!> certaines sections (tap/été actif) supprimées
+fil d'actualité
+slider
+Video
+mise en place calendrier avec maj sur site.
+thématiques ? => entrée par public(age) ou par type d'activitées.
+description site? 
+download fichier inscirption directement sur le site, rubrique ? 
+afficher partenaires(logo) + redirection vers leurs sites.logo rwf sur site.
+form contact?
+barre de recherche?
